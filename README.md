@@ -1,16 +1,92 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Gustavo Alves da Silva
 
-<!--
-**gustavo-domingos/gustavo-domingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+🎓 **Desenvolvedor Backend** | 📚 **Estudante de Análise e Desenvolvimento de Sistemas**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Views](https://komarev.com/ghpvc/?username=gustavo-domingos&color=blueviolet&style=flat-square)
+
+</div>
+
+## 🚀 Sobre Mim
+
+```yaml
+nome: "Gustavo Alves da Silva"
+localização: "Santa Catarina, Brasil"
+formação: 
+  - "Técnico em Informática integrado ao Ensino Médio"
+  - "Cursando Análise e Desenvolvimento de Sistemas"
+interesses:
+  - "Desenvolvimento Backend"
+  - "APIs e Microserviços"
+  - "Boas práticas de programação"
+```
+## 💼 Experiência & Estudos
+
+<div align="center">
+
+### 🔥 **Atualmente**
+  
+**📖 Estudando tecnologias backend**  
+**🚀 Buscando sempre evoluir e aprender coisas novas**
+
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-domingos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-domingos&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
+<!-- Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com?user=gustavo-domingos&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+</div>
+
+## 🛠️ Stack Tecnológica
+
+### 💻 **Linguagens & Frameworks**
+<div style="display: inline_block">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+
+### 🗄️ **Banco de Dados & Ferramentas**
+<div style="display: inline_block">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+</div>
+
+## 📫 Vamos Conversar!
+
+<div align="center">
+
+### 💬 **Pode me ajudar?** 
+Compartilhe conhecimentos interessantes sobre programação! 
+
+### 📧 **Entre em contato:**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesdasilvag185@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin])
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([47992434138])
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Curiosidade:** Em constante evolução, sempre buscando o próximo nível! 🚀
+
+**"O sucesso é a soma de pequenos esforços repetidos dia após dia."** - Robert Collier
+
+![Snake animation](https://github.com/gustavo-domingos/gustavo-domingos/blob/output/github-contribution-grid-snake.svg)
+
+</div>
