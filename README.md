@@ -11,7 +11,6 @@
 
 ## 🚀 Sobre Mim
 
-```yaml
 nome: "Gustavo Alves da Silva"
 localização: "Santa Catarina, Brasil"
 formação: 
@@ -22,7 +21,6 @@ interesses:
   - "Arquitetura de Software"
   - "APIs e Microserviços"
   - "Boas práticas de programação"
-```
 
 ## 💼 Experiência & Estudos
 
