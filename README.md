@@ -74,7 +74,7 @@ Compartilhe conhecimentos interessantes sobre programação!
 
 ### 📧 **Entre em contato:**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesdasilvag185@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gustavo-alves-da-silva1])
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([47992434138])
 
 </div>
@@ -86,7 +86,5 @@ Compartilhe conhecimentos interessantes sobre programação!
 ### ⚡ **Curiosidade:** Em constante evolução, sempre buscando o próximo nível! 🚀
 
 **"O sucesso é a soma de pequenos esforços repetidos dia após dia."** - Robert Collier
-
-![Snake animation](https://github.com/gustavo-domingos/gustavo-domingos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
