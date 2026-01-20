@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎓 **Desenvolvedor Backend** | 📚 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🎓 **Desenvolvedor Backend** | 📚 **Formado em Análise e Desenvolvimento de Sistemas**  
 💡 **Apaixonado por tecnologia e soluções inovadoras**
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=gustavo-domingos&color=blueviolet&style=flat-square)
