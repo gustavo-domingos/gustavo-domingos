@@ -9,7 +9,7 @@ Desenvolvedor backend em **Kotlin e Java**. Hoje cuido da sustentação de siste
 
 Gosto de problemas com regra de negócio de verdade: um regulamento de 15 páginas, uma operação de coletas, dados eleitorais públicos.
 
-**[Portfólio](https://gustavo-domingos.github.io/portifolio_pessoal/)** &nbsp;&nbsp;&nbsp; **[LinkedIn](https://www.linkedin.com/in/gustavo-alves-da-silva1)** &nbsp;&nbsp;&nbsp; **[Currículo em PDF](https://gustavo-domingos.github.io/portifolio_pessoal/cv/gustavo-alves-da-silva-curriculo.pdf)** &nbsp;&nbsp;&nbsp; alvesdasilvag185@gmail.com
+**[Portfólio](https://gustavo-domingos.github.io/portifolio_pessoal/)** &nbsp;&nbsp;&nbsp; **[LinkedIn](https://www.linkedin.com/in/gustavo-alves-da-silva1)** &nbsp;&nbsp;&nbsp; **[Currículo em PDF](https://gustavo-domingos.github.io/portifolio_pessoal/cv/Gustavo-Alves-da-Silva-Curriculo-Desenvolvedor-Backend.pdf)** &nbsp;&nbsp;&nbsp; alvesdasilvag185@gmail.com
 
 ## Projetos
 
@@ -47,6 +47,6 @@ Backend developer working with **Kotlin and Java**, based in southern Brazil. I 
 
 Highlights: **[Quem eu voto](https://github.com/gustavo-domingos/quem-eu-voto)**, an election transparency platform in Go built on open government data, and two Kotlin systems being rolled out for a freight company and a school.
 
-**[Portfolio in English](https://gustavo-domingos.github.io/portifolio_pessoal/?lang=en)** &nbsp;&nbsp;&nbsp; **[Résumé (PDF)](https://gustavo-domingos.github.io/portifolio_pessoal/cv/gustavo-alves-da-silva-resume.pdf)**
+**[Portfolio in English](https://gustavo-domingos.github.io/portifolio_pessoal/?lang=en)** &nbsp;&nbsp;&nbsp; **[Résumé (PDF)](https://gustavo-domingos.github.io/portifolio_pessoal/cv/Gustavo-Alves-da-Silva-Resume-Backend-Developer.pdf)**
 
 </details>
